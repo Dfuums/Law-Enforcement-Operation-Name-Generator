@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Dfuums/Law-Enforcement-Operation-Name-Generator/issues"
   },
-  "homepage": "https://github.com/Dfuums/Law-Enforcement-Operation-Name-Generator#readme"
+  "homepage": "https://github.com/Dfuums/Law-Enforcement-Operation-Name-Generator#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
 }
